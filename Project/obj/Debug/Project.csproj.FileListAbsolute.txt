@@ -1,0 +1,236 @@
+C:\Users\IEUser\source\repos\Project\Project\bin\Project.dll.config
+C:\Users\IEUser\source\repos\Project\Project\bin\Project.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\Project.pdb
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\csc.exe
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\csc.rsp
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\csi.exe
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\csi.exe.config
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\csi.rsp
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Console.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Net.Http.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\vbc.exe
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\IEUser\source\repos\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IEUser\source\repos\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IEUser\source\repos\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IEUser\source\repos\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\IEUser\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\source\repos\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\IEUser\source\repos\Project\Project\obj\Debug\Project.dll
+C:\Users\IEUser\source\repos\Project\Project\obj\Debug\Project.pdb
+D:\WAD Project\Project\Project\Project\bin\Project.dll.config
+D:\WAD Project\Project\Project\Project\bin\Project.dll
+D:\WAD Project\Project\Project\Project\bin\Project.pdb
+D:\WAD Project\Project\Project\Project\bin\roslyn\csc.exe
+D:\WAD Project\Project\Project\Project\bin\roslyn\csc.exe.config
+D:\WAD Project\Project\Project\Project\bin\roslyn\csc.rsp
+D:\WAD Project\Project\Project\Project\bin\roslyn\csi.exe
+D:\WAD Project\Project\Project\Project\bin\roslyn\csi.exe.config
+D:\WAD Project\Project\Project\Project\bin\roslyn\csi.rsp
+D:\WAD Project\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WAD Project\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WAD Project\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WAD Project\Project\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.AppContext.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Console.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Globalization.Calendars.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.IO.Compression.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Net.Http.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Net.Sockets.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.ValueTuple.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Xml.XPath.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WAD Project\Project\Project\Project\bin\roslyn\vbc.exe
+D:\WAD Project\Project\Project\Project\bin\roslyn\vbc.exe.config
+D:\WAD Project\Project\Project\Project\bin\roslyn\vbc.rsp
+D:\WAD Project\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\WAD Project\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\WAD Project\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WAD Project\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WAD Project\Project\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\WAD Project\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\WAD Project\Project\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\WAD Project\Project\Project\Project\obj\Debug\Project.dll
+D:\WAD Project\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\IEUser\Desktop\Project\Project\bin\Project.dll.config
+C:\Users\IEUser\Desktop\Project\Project\bin\Project.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\Project.pdb
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\csc.exe
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\csc.rsp
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\csi.exe
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\csi.exe.config
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\csi.rsp
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Console.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Net.Http.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\vbc.exe
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\IEUser\Desktop\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IEUser\Desktop\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IEUser\Desktop\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IEUser\Desktop\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\IEUser\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Desktop\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\IEUser\Desktop\Project\Project\obj\Debug\Project.dll
+C:\Users\IEUser\Desktop\Project\Project\obj\Debug\Project.pdb
+D:\WAD Project\Updated\Project\Project\bin\Project.dll.config
+D:\WAD Project\Updated\Project\Project\bin\Project.dll
+D:\WAD Project\Updated\Project\Project\bin\Project.pdb
+D:\WAD Project\Updated\Project\Project\bin\roslyn\csc.exe
+D:\WAD Project\Updated\Project\Project\bin\roslyn\csc.exe.config
+D:\WAD Project\Updated\Project\Project\bin\roslyn\csc.rsp
+D:\WAD Project\Updated\Project\Project\bin\roslyn\csi.exe
+D:\WAD Project\Updated\Project\Project\bin\roslyn\csi.exe.config
+D:\WAD Project\Updated\Project\Project\bin\roslyn\csi.rsp
+D:\WAD Project\Updated\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WAD Project\Updated\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WAD Project\Updated\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WAD Project\Updated\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.AppContext.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Console.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Globalization.Calendars.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.IO.Compression.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Net.Http.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Net.Sockets.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.ValueTuple.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Xml.XPath.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WAD Project\Updated\Project\Project\bin\roslyn\vbc.exe
+D:\WAD Project\Updated\Project\Project\bin\roslyn\vbc.exe.config
+D:\WAD Project\Updated\Project\Project\bin\roslyn\vbc.rsp
+D:\WAD Project\Updated\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\WAD Project\Updated\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\WAD Project\Updated\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WAD Project\Updated\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WAD Project\Updated\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\WAD Project\Updated\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\WAD Project\Updated\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\WAD Project\Updated\Project\Project\obj\Debug\Project.dll
+D:\WAD Project\Updated\Project\Project\obj\Debug\Project.pdb
